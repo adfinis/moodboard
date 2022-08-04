@@ -143,6 +143,11 @@ button {  width: auto; overflow: visible; }
   font-weight: bold;
 }
 
+.buttons a small {
+  position: relative;
+  top: -70px;
+}
+
 * {
   font-family: 'lucida grande';
 }
